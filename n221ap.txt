@@ -1,0 +1,155 @@
+{
+  "iPhone10,6": {
+    "name": "iPhone X (GSM)",
+    "BoardConfig": "d221ap",
+    "platform": "",
+    "cpid": 32789,
+    "bdid": 14,
+    "firmwares": [
+      {
+        "version": "11.4.1",
+        "buildid": "15G77",
+        "sha1sum": "197cad2b0aa331974e68b85cc0866eaa7d6789f6",
+        "md5sum": "da4582b16f12ac2332e396235932e5f3",
+        "size": 2977605474,
+        "releasedate": "2018-07-09T17:09:37Z",
+        "uploaddate": "2018-06-30T04:51:57Z",
+        "url": "http://updates-http.cdn-apple.com/2018/ios/091-74595-20180709-81322D10-7C1C-11E8-B233-9E5B544C24EB/iPhone10,3,iPhone10,6_11.4.1_15G77_Restore.ipsw",
+        "signed": true,
+        "filename": "iPhone10,3,iPhone10,6_11.4.1_15G77_Restore.ipsw"
+      },
+      {
+        "version": "11.4",
+        "buildid": "15F79",
+        "sha1sum": "11fa6afd5772b58c28c8fcc8da0f8995c52eef9f",
+        "md5sum": "f410a110101d2f16c2b4e373bd3ee0f3",
+        "size": 2981795458,
+        "releasedate": "2018-05-29T17:03:15Z",
+        "uploaddate": "2018-05-18T17:52:42Z",
+        "url": "http://updates-http.cdn-apple.com/2018/ios/091-64580-20180529-3AFE7530-5ABE-11E8-82B8-E257A3E35D9E/iPhone10,3,iPhone10,6_11.4_15F79_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10,3,iPhone10,6_11.4_15F79_Restore.ipsw"
+      },
+      {
+        "version": "11.3.1",
+        "buildid": "15E302",
+        "sha1sum": "be04218488a3b785174664ba8914968cb0b3fcee",
+        "md5sum": "2326762ec1d883334eaa709b47099254",
+        "size": 2975229435,
+        "releasedate": "2018-04-24T17:10:35Z",
+        "uploaddate": "2018-04-14T20:50:26Z",
+        "url": "http://updates-http.cdn-apple.com/2018/ios/091-77965-20180419-88890596-4023-11E8-B265-39A7FBE594B0/iPhone10,3,iPhone10,6_11.3.1_15E302_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10,3,iPhone10,6_11.3.1_15E302_Restore.ipsw"
+      },
+      {
+        "version": "11.3",
+        "buildid": "15E216",
+        "sha1sum": "4b0c7c7e1fe61e3d425f3023307c1806087fdf9d",
+        "md5sum": "8204c10f19a5605771c0684a0a4c665a",
+        "size": 2975271049,
+        "releasedate": "2018-03-29T17:05:06Z",
+        "uploaddate": "2018-03-16T22:26:05Z",
+        "url": "http://appldnld.apple.com/ios11.3/091-40480-20180329-3795A882-2968-11E8-85D0-F8BDE6893228/iPhone10,3,iPhone10,6_11.3_15E216_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10,3,iPhone10,6_11.3_15E216_Restore.ipsw"
+      },
+      {
+        "version": "11.2.6",
+        "buildid": "15D100",
+        "sha1sum": "bf540114b206c25387b16c7957289309dd112a81",
+        "md5sum": "1f5460ced49ae30ab345a77cd4eec627",
+        "size": 2964333176,
+        "releasedate": "2018-02-19T21:32:05Z",
+        "uploaddate": "2018-02-16T15:58:06Z",
+        "url": "http://appldnld.apple.com/ios11.2.6/091-69675-20180220-063990CA-1331-11E8-B363-1BA2E0A71A1F/iPhone10%2C6_11.2.6_15D100_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10%2C6_11.2.6_15D100_Restore.ipsw"
+      },
+      {
+        "version": "11.2.5",
+        "buildid": "15D60",
+        "sha1sum": "2fde1a2a19fd87a345da1249f07592c8c2c7e5db",
+        "md5sum": "3d78558c48fd504029558aa3c34edeeb",
+        "size": 2964318992,
+        "releasedate": "2018-01-23T18:03:45Z",
+        "uploaddate": "2018-01-18T21:59:17Z",
+        "url": "http://appldnld.apple.com/ios11.2.5/091-62010-20180122-2A159E5A-FC96-11E7-B269-E6848D2B37FD/iPhone10,6_11.2.5_15D60_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10,6_11.2.5_15D60_Restore.ipsw"
+      },
+      {
+        "version": "11.2.2",
+        "buildid": "15C202",
+        "sha1sum": "8ec7ee2ed2c1e912314a9a54b0516a202bc2baac",
+        "md5sum": "e06fa15ad02108a89e6b1a83ffa1745b",
+        "size": 2961528811,
+        "releasedate": "2018-01-08T18:08:10Z",
+        "uploaddate": "2018-01-03T21:06:05Z",
+        "url": "http://appldnld.apple.com/ios11.2.2/091-58675-20170108-B84E4534-F0C8-11E7-B3D8-7C2D869EB6BD/iPhone10,6_11.2.2_15C202_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10,6_11.2.2_15C202_Restore.ipsw"
+      },
+      {
+        "version": "11.2.1",
+        "buildid": "15C153",
+        "sha1sum": "16bb3a030157cfde5dce3c5af1682531cac802eb",
+        "md5sum": "aea307e1421b616bd5c3607240ba5b29",
+        "size": 2961032873,
+        "releasedate": "2017-12-13T18:00:59Z",
+        "uploaddate": "2017-12-10T22:55:57Z",
+        "url": "http://appldnld.apple.com/ios11.2.1/091-54847-20171213-5FBB02FC-DDFB-11E7-9CEF-07E4FB2783B2/iPhone10,6_11.2.1_15C153_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10,6_11.2.1_15C153_Restore.ipsw"
+      },
+      {
+        "version": "11.2",
+        "buildid": "15C114",
+        "sha1sum": "9b9ec3af0f50c1c9a9bd4ebca732ca96cdb45fdb",
+        "md5sum": "5562901c9a098fa5eadf159e230cdb49",
+        "size": 2960883213,
+        "releasedate": "2017-12-02T08:43:52Z",
+        "uploaddate": "2017-11-30T18:10:09Z",
+        "url": "http://appldnld.apple.com/ios11.2/091-51760-20171206-BA09FB16-D5F7-11E7-A344-36B9DC24E03F/iPhone10,6_11.2_15C114_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10,6_11.2_15C114_Restore.ipsw"
+      },
+      {
+        "version": "11.1.2",
+        "buildid": "15B202",
+        "sha1sum": "f610212864ba920a81bb946d5865008eecc4ebb1",
+        "md5sum": "1a5a795d44fe6c0a91cc44463a7f53bf",
+        "size": 2943998140,
+        "releasedate": "2017-11-16T20:57:50Z",
+        "uploaddate": "2017-11-15T05:54:51Z",
+        "url": "http://appldnld.apple.com/ios11.1.2/091-48137-20171116-4F9256F2-C9C7-11E7-8F92-8DE0F451CBCD/iPhone10,6_11.1.2_15B202_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10,6_11.1.2_15B202_Restore.ipsw"
+      },
+      {
+        "version": "11.1.1",
+        "buildid": "15B150",
+        "sha1sum": "24885476d53150f2f52ab5a22f59277f1db1e1a1",
+        "md5sum": "5b226439234d1d63c9404f8d9da0f33c",
+        "size": 2944049846,
+        "releasedate": "2017-11-09T17:59:03Z",
+        "uploaddate": "2017-11-07T09:19:41Z",
+        "url": "http://appldnld.apple.com/ios11.1.1/091-42552-20171106-4525806E-C39A-11E7-B432-4BBCF8FD2868/iPhone10,6_11.1.1_15B150_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10,6_11.1.1_15B150_Restore.ipsw"
+      },
+      {
+        "version": "11.1",
+        "buildid": "15B93",
+        "sha1sum": "b940d16bde925488b70dcf7d09d87e02430a6569",
+        "md5sum": "2ea5538ea44258ddd8974f0b900ed1ef",
+        "size": 2944000487,
+        "releasedate": "2017-10-31T17:41:55Z",
+        "uploaddate": "2017-10-21T00:01:49Z",
+        "url": "http://appldnld.apple.com/ios11.1seed/091-41194-20171023-8AEAD654-B5F2-11E7-8655-C76EBEA7E146/iPhone10,6_11.1_15B93_Restore.ipsw",
+        "signed": false,
+        "filename": "iPhone10,6_11.1_15B93_Restore.ipsw"
+      }
+    ]
+  }
+}
